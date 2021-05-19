@@ -94,6 +94,7 @@ Access method: heap
 | \ds  | 只显示序列       |
 | \dv  | 只显示试图       |
 | \df  | 只显示函数       |
+| \db  | 只显示表空间     |
 
 显示sql的执行时间
 
